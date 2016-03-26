@@ -1,0 +1,14 @@
+{
+  "name": "UsandoJadeView",
+  "version": "0.0.0",
+  "description": "UsandoJadeView",
+  "main": "server.js",
+  "author": {
+    "name": "fnali",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  }
+}
