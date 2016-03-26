@@ -1,0 +1,10 @@
+{
+  "name": "HelloWorldWeb",
+  "version": "0.0.0",
+  "description": "HelloWorldWeb",
+  "main": "server.js",
+  "author": {
+    "name": "fnali",
+    "email": ""
+  }
+}
