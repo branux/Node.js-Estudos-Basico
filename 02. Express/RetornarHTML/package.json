@@ -1,0 +1,10 @@
+{
+  "name": "RetornarHTML",
+  "version": "0.0.0",
+  "description": "RetornarHTML",
+  "main": "server.js",
+  "author": {
+    "name": "fnali",
+    "email": ""
+  }
+}
