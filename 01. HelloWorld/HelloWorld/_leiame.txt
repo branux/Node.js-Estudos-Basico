@@ -1,0 +1,4 @@
+** Instruções p/ criar esse projeto **
+
+01. Instalar no VS Node.js tools (https://www.visualstudio.com/en-us/features/node-js-vs.aspx)
+02. New Project / Templates / JavaScript / Node.js / Blank Node.js Console Application
