@@ -36,13 +36,16 @@
     <Compile Include="server.js" />
     <Compile Include="services\index.js" />
     <Compile Include="services\seedData.js" />
+    <Content Include="content\css\site.css" />
     <Content Include="package.json" />
     <Content Include="README.md" />
     <Content Include="views\index.vash" />
     <Content Include="views\_layout.vash" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="content\css\" />
     <Folder Include="controllers\" />
+    <Folder Include="content\" />
     <Folder Include="services\" />
     <Folder Include="views\" />
   </ItemGroup>

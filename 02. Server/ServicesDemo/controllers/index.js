@@ -4,7 +4,7 @@
     var usersController = require("./usersController.js");
     
     controllers.init = function (app) {
-        app.set("view engine", "vash");
+        
         homeController.init(app);
         usersController.init(app);
     };
