@@ -1,0 +1,6 @@
+﻿﻿@html.extend("_layout",function(model){
+	@html.block("body",function(model){
+		<h1>@model.title</h1>
+		<p>Trecho vindo do servidor</p>
+	})
+})

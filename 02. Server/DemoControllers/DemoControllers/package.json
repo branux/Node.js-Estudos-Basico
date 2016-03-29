@@ -1,0 +1,14 @@
+{
+  "name": "DemoControllers",
+  "version": "0.0.0",
+  "description": "DemoControllers",
+  "main": "server.js",
+  "author": {
+    "name": "fabiano.nalin",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "vash": "^0.11.2"
+  }
+}
